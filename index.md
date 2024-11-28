@@ -2,12 +2,12 @@
 layout: default
 ---
 
-孔维飒
-
-[pFind team](http://pfind.org/)
-
-[Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/)
-
+<!-- 孔维飒 -->
+<!---->
+<!-- [pFind team](http://pfind.org/) -->
+<!---->
+<!-- [Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/) -->
+<!---->
 ## About Me
 
 <img class="profile-picture" src="kws.jpg">
