@@ -2,13 +2,23 @@
 layout: default
 ---
 
+孔维飒
+
+[pFind team](http://pfind.org/)
+
+[Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/)
+
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="kws.jpg">
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
+## Supervisor
+
+[Hao CHI](http://pfind.org/people/chihao/index.htm)：Professor，[Institute of Computing Technology](https://ict.cas.cn/)，[Chinese Academy of Sciences](https://www.cas.cn/)。
 
 ## Research Interest
 
