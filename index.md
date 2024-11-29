@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img class="profile-picture" src="kws.jpg">
+## About Me
 
-孔维飒
+<img class="profile-picture" src="kws.jpg">
 
 [pFind team](http://pfind.org/)
 
@@ -14,7 +14,6 @@ layout: default
 
 E-mail: [kongweisa24s@ict.ac.cn](kongweisa24s@ict.ac.cn)
 
-## About Me
 
 I am a student majoring in Computer Science at Institute of Computing Technology.
 
