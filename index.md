@@ -2,23 +2,32 @@
 layout: default
 ---
 
+<img class="profile-picture" src="kws.jpg">
+
 孔维飒
 
 [pFind team](http://pfind.org/)
 
-[Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/)
+[Institute of Computing Technology](https://ict.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)。
+
+[University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
 
 ## About Me
 
-<img class="profile-picture" src="kws.jpg">
-
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<!-- ## Supervisor -->
+<!---->
+<!-- [Hao CHI](http://pfind.org/people/chihao/index.htm)：Professor， -->
+<!-- [Institute of Computing Technology](https://ict.cas.cn/)，[Chinese Academy of Sciences](https://www.cas.cn/)。 -->
 
-## Supervisor
+## Education
 
-[Hao CHI](http://pfind.org/people/chihao/index.htm)：Professor，[Institute of Computing Technology](https://ict.cas.cn/)，[Chinese Academy of Sciences](https://www.cas.cn/)。
+2024-now: Master Candidate, Institute of Computing Technology, Chinese Academy of Sciences. 
+Supervisor: 
+[Hao CHI](http://pfind.org/people/chihao/index.htm)
+
+2020-2024: Bachelor of Engineering, Software Engineering, [Henan University of Technology](https://www.haut.edu.cn/). 
 
 ## Research Interest
 
