@@ -8,7 +8,7 @@ layout: default
 
 [pFind team](http://pfind.org/)
 
-[Institute of Computing Technology](https://ict.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)。
+[Institute of Computing Technology](https://ict.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
 
 [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
 
@@ -31,8 +31,6 @@ Supervisor:
 
 2020-2024: Bachelor of Engineering, Software Engineering, [Henan University of Technology](https://www.haut.edu.cn/). 
 
----
-
 ## Awards
 
 <!-- Year | Award | Category -->
@@ -43,8 +41,12 @@ Supervisor:
 <!---->
 
 - 2022.05: The 46th ICPC Asia Kunming Regional Contest  **Bronze Medal**.
+
 - 2022.12: The 2022 ICPC Asia Jinan Regional Contest  **Bronze Medal**.
+
 - 2023.05: 2023 CCPC - Henan Provincial Collegiate Programming Contest.  **Gold Medal**.
+
+--- 
 
 [Resume.pdf](https://verdenmax.github.io/resume/resume.pdf)
 
