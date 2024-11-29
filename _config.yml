@@ -5,7 +5,7 @@ baseurl: "/"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
-ins_logo: "./github-mark.svg"
+# ins_logo: "./github-mark.svg"
 
 tracking_id: #
 
