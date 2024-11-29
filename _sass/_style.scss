@@ -13,6 +13,7 @@ body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    font-size: larger
 }
 a {
     text-decoration: none;
@@ -67,7 +68,7 @@ hr {
 .container {
     max-width: $max-width;
     margin: auto;
-    border: 20px solid #000;  // 添加边框，颜色为黑色，宽度为1px
+    border: 1px solid #000;  // 添加边框，颜色为黑色，宽度为1px
     padding: 15px;           // 可选：添加内边距，使内容不紧贴边框
 }
 .wrapper {

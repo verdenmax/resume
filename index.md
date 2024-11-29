@@ -14,9 +14,7 @@ layout: default
 
 E-mail: [kongweisa24s@ict.ac.cn](kongweisa24s@ict.ac.cn)
 
-I am a student majoring in Computer Science at Institute of Computing Technology.
-
-<!-- Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani. -->
+<!-- I am a student majoring in Computer Science at Institute of Computing Technology. -->
 
 ## Supervisor
 
@@ -37,17 +35,18 @@ Supervisor:
 
 ## Awards
 
-Year | Award | Category
------|-------|--------
-2022.05 | The 46th ICPC Asia Kunming Regional Contest | **Bronze Medal**
-2022.12 | The 2022 ICPC Asia Jinan Regional Contest | **Bronze Medal**
-2023.05 | 2023 CCPC - Henan Provincial Collegiate Programming Contest |  **Gold Medal**
-
+<!-- Year | Award | Category -->
+<!-- -----|-------|-------- -->
+<!-- 2022.05 | The 46th ICPC Asia Kunming Regional Contest | **Bronze Medal** -->
+<!-- 2022.12 | The 2022 ICPC Asia Jinan Regional Contest | **Bronze Medal** -->
+<!-- 2023.05 | 2023 CCPC - Henan Provincial Collegiate Programming Contest |  **Gold Medal** -->
+<!---->
 
 - 2022.05: The 46th ICPC Asia Kunming Regional Contest  **Bronze Medal**.
 - 2022.12: The 2022 ICPC Asia Jinan Regional Contest  **Bronze Medal**.
 - 2023.05: 2023 CCPC - Henan Provincial Collegiate Programming Contest.  **Gold Medal**.
 
+[Resume.pdf](https://verdenmax.github.io/resume/resume.pdf)
 
 <!-- ## Research Interest -->
 <!---->
