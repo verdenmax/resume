@@ -67,6 +67,8 @@ hr {
 .container {
     max-width: $max-width;
     margin: auto;
+    border: 2px solid #000;  // 添加边框，颜色为黑色，宽度为1px
+    padding: 15px;           // 可选：添加内边距，使内容不紧贴边框
 }
 .wrapper {
     min-height: 100%;
