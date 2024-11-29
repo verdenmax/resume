@@ -12,14 +12,11 @@ layout: default
 
 [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
 
-E-mail: [kongweisa24s@ict.ac.cn](kongweisa24s@ict.ac.cn)
-
 <!-- I am a student majoring in Computer Science at Institute of Computing Technology. -->
 
 ## Supervisor
 
-[Hao CHI](http://pfind.org/people/chihao/index.htm)：Professor，
-[Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/)
+[Hao CHI](http://pfind.org/people/chihao/index.htm)：Professor，Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Education
 
@@ -46,9 +43,19 @@ Supervisor:
 
 - 2023.05: 2023 CCPC - Henan Provincial Collegiate Programming Contest.  **Gold Medal**.
 
---- 
+## Address
 
-[Resume.pdf](https://verdenmax.github.io/resume/resume.pdf)
+pFind Team
+
+Institute of Computing Technology, Chinese Academy of Sciences
+
+No.6 Zhongguancun South Road, Beijing, China, 100190
+
+Email: [kongweisa24s@ict.ac.cn](mailto:kongweisa24s@ict.ac.cn)
+
+北京市海淀区科学院南路6号 中国科学院计算技术研究所 pFind团队 孔维飒
+
+邮编：100190
 
 <!-- ## Research Interest -->
 <!---->
