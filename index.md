@@ -37,7 +37,12 @@ Supervisor:
 
 ---
 
-## 
+## Awards
+
+- 2022.05: The 46th ICPC Asia Kunming Regional Contest  **Bronze Medal**.
+- 2022.12: The 2022 ICPC Asia Jinan Regional Contest  **Bronze Medal**.
+- 2023.05: 2023 CCPC - Henan Provincial Collegiate Programming Contest.  **Gold Medal**.
+
 
 <!-- ## Research Interest -->
 <!---->

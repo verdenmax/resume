@@ -1,6 +1,6 @@
 title: "孔维飒"
 url: "https://verdenmax.github.io/resume/"
-baseurl: "/"
+baseurl: ""
 
 remote_theme: ankitsultana/researcher@gem
 
@@ -18,9 +18,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+ # - name: "About"
+ #   link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ # - name: "Contact"
+ #   link: "contact"
